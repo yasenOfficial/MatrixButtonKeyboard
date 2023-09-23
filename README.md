@@ -25,7 +25,7 @@ Soldering iron and solder
 Connecting wires (for Arduino Pro Micro)
 
 ## PCB
-This is a preview of the PCB:
+This is a preview of the PCB: </br>
 ![PCB](https://github.com/yasenOfficial/MatrixButtonKeyboard/blob/main/images/keyboardmatrixpcb.png)
 
 ## Schematic
