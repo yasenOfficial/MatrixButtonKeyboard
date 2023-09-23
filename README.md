@@ -34,7 +34,7 @@ This is the schematic:
 
 
 ## First Prototype
-This is a simple prototype using a breadboard ( 1 column, 4 rows ) I have also written some test code for it
+This is a simple prototype using a breadboard ( 1 column, 4 rows ). I have also written some test code for it.
 
 ![Prortype](https://github.com/yasenOfficial/MatrixButtonKeyboard/blob/main/images/firstprototype.png)
 
